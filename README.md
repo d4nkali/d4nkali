@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+<div align="center">
+  <a href="https://github.com/LedoVeras">
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LedoVeras&layout=compact&langs_count=100&hide=html,css&theme=tokyonight"/>
+</div>
+<br>
+
 <!--
 **d4nkali/d4nkali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
