@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<div align="right">
+<div align="left">
   <a href="https://github.com/d4nkali">
   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d4nkali&layout=compact&langs_count=100&theme=tokyonight"/>
 </div>
