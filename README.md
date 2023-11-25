@@ -10,7 +10,7 @@
   
   <a href="https://github.com/d4nkali">
   <img align="left" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d4nkali&layout=compact&langs_count=100&theme=dracula&locale=pt-br"/>
-  <img height="150px" align="center" src="https://github-readme-stats.vercel.app/api?username=d4nkali&theme=dracula&hide_rank=true&locale=pt-br&show_icons=true&count_private=true&include_all_commits=true"/>
+  <img height="150px" align="center" src="https://github-readme-stats.vercel.app/api?username=d4nkali&theme=dracula&hide_rank=true&locale=pt-br&include_all_commits=true&show_icons=true&count_private=true"/>
     
 </div>
 
