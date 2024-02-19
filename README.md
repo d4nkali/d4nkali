@@ -14,9 +14,9 @@
   
   <a href="https://github.com/d4nkali">
     
-  <img align="left" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d4nkali&layout=compact&langs_count=20&theme=dracula&locale=pt-br&include_private=true"/>  <!-- Linguagens mais Usadas -->
+  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d4nkali&layout=compact&langs_count=20&theme=dracula&locale=pt-br&include_private=true"/>  <!-- Linguagens mais Usadas -->
 
-  <img height="150px" align="center" src="https://github-readme-stats.vercel.app/api?username=d4nkali&theme=dracula&hide_rank=true&locale=pt-br&show_icons=true&count_private=true&include_private=true"/>  <!-- Rank -->
+  <img height="170px" align="center" src="https://github-readme-stats.vercel.app/api?username=d4nkali&theme=dracula&hide_rank=true&locale=pt-br&show_icons=true&count_private=true&include_private=true"/>  <!-- Rank -->
 
 </div>
 
