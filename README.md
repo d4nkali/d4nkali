@@ -3,8 +3,8 @@
 - 🌱 Atualmente estou cursando Sistemas para a Internet no Centro Universitário UNIESP.
 - 📫 Contato:
 
-  <a href='danilopereiraviana@gmail.com'><img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' target= "_blank"></a>
-  <a href='d4n_kali@protonmail.com'><img src='https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white' target= "_blank"></a>
+  <a href='mailto:danilopereiraviana@gmail.com'><img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' target= "_blank"></a>
+  <a href='mailto:d4n_kali@protonmail.com'><img src='https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white' target= "_blank"></a>
 
 ## Estatísticas:
 
