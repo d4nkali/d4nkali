@@ -6,10 +6,11 @@
 
 <!-- Badges --> 
 
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danilopereiraviana@gmail.com){:target="_blank"}
-  [![ProtonMail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:d4n_kali@protonmail.com){:target="_blank"}
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danilo-pereira-a568072a0/){:target="_blank"}
-  [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/d4nkali){:target="_blank"}
+  <a href='mailto:danilopereiraviana@gmail.com'><img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' target= "_blank"></a>
+  <a href='mailto:d4n_kali@protonmail.com'><img src='https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white' target= "_blank"></a>
+  <a href='https://www.linkedin.com/in/danilo-pereira-a568072a0/'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' target= "_blank"></a>
+  <a href='https://github.com/d4nkali'><img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white' target= "_blank"></a>
+
 
 ## Ferramentas:
 
