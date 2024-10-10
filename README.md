@@ -39,9 +39,7 @@
 - 🌱 Aprendendo atualmente:
 
   ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=black)
   ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
   ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
   ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
@@ -50,8 +48,10 @@
   ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white&color=orange)
   ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white&color=blue)
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)
-  ![MarkDown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=black)
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+  ![MarkDown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
   ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
 
@@ -63,9 +63,13 @@
 
   <a href="https://github.com/d4nkali">
 
-  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d4nkali&layout=compact&langs_count=20&theme=dracula&locale=pt-br&hide=Markdown,Game%20Maker%20Language&include_private=true"/>  <!-- Linguagens mais Usadas -->
+<!-- Linguagens mais Usadas -->
 
-  <img height="170px" align="center" src="https://github-readme-stats.vercel.app/api?username=d4nkali&theme=dracula&hide_rank=true&locale=pt-br&show_icons=true&count_private=true&include_private=true"/>  <!-- Rank -->
+  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d4nkali&layout=compact&langs_count=20&theme=dracula&locale=pt-br&hide=Markdown,Game%20Maker%20Language,JSON&include_private=true"/>  
+
+ <!-- Rank -->
+
+  <img height="170px" align="center" src="https://github-readme-stats.vercel.app/api?username=d4nkali&theme=dracula&hide_rank=true&locale=pt-br&show_icons=true&count_private=true&include_private=true"/> 
 
 </div>
 
