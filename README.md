@@ -4,17 +4,18 @@
 - ⚡ Como *hobbies*, gosto de criar projetos em **Arduino** e outros Microcontroladores, explorar *OS* em especial **Linux** e suas distros.
 - 📫 Contato:
 
-<!-- Badges --> 
+<!-- Badges para Contatos --> 
 
   <a href='mailto:danilopereiraviana@gmail.com' target= "_blank"><img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'></a>
   <a href='mailto:d4n_kali@protonmail.com' target= "_blank"><img src='https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white'></a>
   <a href='https://www.linkedin.com/in/danilo-pereira-a568072a0/' target= "_blank"><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'></a>
   <a href='https://github.com/d4nkali' target= "_blank"><img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white'></a>
+  <a href='https://gitlab.com/d4nkali' target="_blank"><img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"></a>
 
 
 ## Ferramentas:
 
-<!-- Badges -->
+<!-- Badges de Tecnologias/Ferramentas/Linguagens -->
 
   ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
   ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
@@ -28,6 +29,9 @@
   ![Virtual_Box](https://img.shields.io/badge/VirtualBox-183A61?logo=virtualbox&logoColor=white&style=for-the-badge)
   ![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=black)
   ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
+  ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
+  ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
+  ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
   ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
   ![Brave](https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white&color=orange)
   ![Tor](https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white)
@@ -39,6 +43,8 @@
 - 🌱 Aprendendo atualmente:
 
   ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+  ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
   ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
   ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
   ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
@@ -65,11 +71,11 @@
 
 <!-- Linguagens mais Usadas -->
 
-  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d4nkali&layout=compact&langs_count=20&theme=dracula&locale=pt-br&hide=Markdown,Game%20Maker%20Language,JSON&include_private=true"/>  
+  <img align="left" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d4nkali&layout=compact&langs_count=20&theme=dracula&locale=pt-br&hide=Markdown,Game%20Maker%20Language,JSON&include_private=true"/>  
 
  <!-- Rank -->
 
-  <img height="170px" align="center" src="https://github-readme-stats.vercel.app/api?username=d4nkali&theme=dracula&hide_rank=true&locale=pt-br&show_icons=true&count_private=true&include_private=true"/> 
+  <img height="190px" align="center" src="https://github-readme-stats.vercel.app/api?username=d4nkali&theme=dracula&hide_rank=true&locale=pt-br&show_icons=true&count_private=true&include_private=true"/> 
 
 </div>
 
